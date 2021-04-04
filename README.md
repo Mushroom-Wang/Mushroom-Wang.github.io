@@ -1,7 +1,3 @@
 Template was forked from [Ink](https://github.com/thinker3197/ink).  
 
-Visit my personal page ([xiong.zikang.me](https://xiong.zikang.me)).   
-
-# Adaptations
-- Adaptive full-screen display (Change `.posts.hight` to 100%; enable `post.position: fixed`).   
-- Replace index.html with index.md.   
+Visit my personal page ([cv.quanwang.website](https://cv.quanwang.website)).    
