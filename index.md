@@ -13,8 +13,3 @@ I am an Economics Honors senior undergraduate student of [Krannert School of Man
 # Contact
 wang4607@purdue.edu
 
-
-<!- --- # Projects --- # Skills -->
-
-
-
