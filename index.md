@@ -21,7 +21,7 @@ wang4607@purdue.edu
 
 ---
 
-# Services
+# Skills
 
 
 
