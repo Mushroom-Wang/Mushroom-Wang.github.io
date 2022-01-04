@@ -13,8 +13,7 @@ quan.wang@duke.edu
 # Experience
 **Undergraduate Researcher**                            Aug 2020 - May 2021
 
-*Krannert School of Management, Purdue University*     *West Lafayette, IN*
-      
+*Krannert School of Management, Purdue University*     *West Lafayette, IN*      
 - Researched on "Managing Supply Chain Disruption Risk for Coronavirus Outbreak"
 - Collected PPE suppliers and public trade data, found how PPEs were allocated, and built a database of PPE
 - Utilized machine learning and regression analysis to build prediction models and conduct hypothesis test
@@ -22,14 +21,12 @@ quan.wang@duke.edu
 **Undergraduate Researcher**        Sep 2018 - Jun 2019
 
 *China Agricultural University*        *Beijing, China*
-
 -    Researched on "The Development and Innovation for Fresh Food E-Commerce in Beijing"
 -    Collected data to generate consumer profile by online and offline survey (1000+)
 -    Built consumer behavior model accurately and provided suggestions for fresh food O2O platforms in Beijing
 
 # Project
 **Classification on Airbnb Availability Data**  *Kaggle competition, rank 13/92*     Dec 2021
-
 - Conducted feature engineering including transforming text, replacing missing value, and data normalization
 - Trained the dataset with ensemble weak classifiers like AdaBoost, Random Forest, and CatBoost
 - Employed auto-tuner Ray-tune framework to speed up the tedious hyperparameter tuning process
