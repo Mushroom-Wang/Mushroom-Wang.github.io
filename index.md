@@ -12,7 +12,7 @@ quan.wang@duke.edu
 
 # Experience
 **Undergraduate Researcher**                            Aug 2020 - May 2021
-*Krannert School of Management, Purdue University*     *West Lafayette, IN*      
+*Krannert School of Management, Purdue University*     *West Lafayette, IN*
 - Researched on "Managing Supply Chain Disruption Risk for Coronavirus Outbreak"
 - Collected PPE suppliers and public trade data, found how PPEs were allocated, and built a database of PPE
 - Utilized machine learning and regression analysis to build prediction models and conduct hypothesis test
