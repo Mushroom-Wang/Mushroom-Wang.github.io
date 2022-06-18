@@ -1,5 +1,5 @@
 name:               "Quan Wang"
-description:        "first-year MS in Economics and Computation student @ Duke University"
+description:        "MSEC @ Duke CS + Econ | Aspiring Software Engineer"
 
 url:                "https://cv.quanwang.website/"
 author:             "QuanWang"
@@ -10,7 +10,7 @@ email:              "quan.wang@duke.edu"
 github:             "Mushroom-Wang"
 linkedin:           "quan-wang"
 # google-scholar:     "H-EoAgYAAAAJ"
-# google-analytics:   "G-XKP43V9XVL"
+google-analytics:   "G-QV8CL0LPN5"
 
 background:         "https://user-images.githubusercontent.com/73256697/111019101-17ec7f80-838b-11eb-8de3-ff104e11481e.jpg"
 favicon:            true # generate with https://realfavicongenerator.net/, and place all the icons under resoureces/
