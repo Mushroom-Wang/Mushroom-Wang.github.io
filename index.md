@@ -5,10 +5,14 @@ layout: index
 ---
 
 # Introduction
-I'm a first-year [M.S. in Economics and Computation](https://econ.duke.edu/masters-programs/degree-programs/msec) student at [Duke University](https://duke.edu/) seeking for 2022 summer intern in data science/analytics. I received my Bachelor of Science degree with highest distinction in Economics Honors on May 8, 2021 from [Krannert School of Management](https://www.krannert.purdue.edu/), [Purdue University](https://www.purdue.edu/). I have minor in Statistics and Mathematics.
+I'm an [M.S. in Economics and Computation](https://econ.duke.edu/masters-programs/degree-programs/msec) (joint program in Computer Science Department) student at [Duke University](https://duke.edu/) seeking for full-time software engineer / developer position. I received my Bachelor of Science degree with highest distinction in Economics Honors on May 8, 2021 from [Krannert School of Management](https://www.krannert.purdue.edu/), [Purdue University](https://www.purdue.edu/). I have minors in Statistics and Mathematics.
+
+----
 
 # Contact
 quan.wang@duke.edu
+
+----
 
 # Experience
 Aug 2020 - May 2021
@@ -24,9 +28,11 @@ Sep 2018 - Jun 2019
 - Collected data to generate consumer profile by online and offline survey (1000+)
 - Built consumer behavior model accurately and provided suggestions for fresh food O2O platforms in Beijing
 
+----
+
 # Project
-Dec 2021
-:   **[Classification on Airbnb Availability Data](https://github.com/Mushroom-Wang/kaggle-airbnb)**; *Kaggle competition (rank 13/92)*     
+
+**[Classification on Airbnb Availability Data](https://github.com/Mushroom-Wang/kaggle-airbnb)**; *Kaggle competition (rank 13/92)*     
 - Conducted feature engineering including transforming text, replacing missing value, and data normalization
 - Trained the dataset with ensemble weak classifiers like AdaBoost, Random Forest, and CatBoost
 - Employed auto-tuner Ray-tune framework to speed up the tedious hyperparameter tuning process
